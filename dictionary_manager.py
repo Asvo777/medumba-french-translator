@@ -189,7 +189,7 @@ def translate_text(sentence, words_df, expressions_df, med_to_fr=True, threshold
     return " ".join(outputs), list(zip(tokens, outputs, scores))
 
 
-tab1, tab2, tab3, tab4 = st.tabs(["🔍 Search Dictionary", "➕ Add Translation", "📊 View Database", "🤖 Translation Model"])
+tab1, tab3, tab4 = st.tabs(["🔍 Search Dictionary", "📊 View Database", "🤖 Translation Model"])
 
 # TAB 1: Search
 with tab1:
@@ -208,7 +208,7 @@ with tab1:
         
         if not results.empty:
             st.success(f"Found {len(results)} result(s)")
-            st.dataframe(results, width='stretch', hide_index=True)
+            st.dataframe(results, use_container_width=True, hide_index=True)
             
             st.markdown("**Delete a result:**")
             col1, col2, col3 = st.columns([1, 1, 1])
@@ -234,30 +234,7 @@ with tab1:
     else:
         st.info(f"👆 Enter a search query to find translations in the {dict_type.lower()} dictionary")
 
-# TAB 2: Add Translation
-with tab2:
-    st.subheader("Add New Translation")
-    
-    dict_type_add = st.radio("Select Dictionary", ["Words", "Expressions"], key="add_dict")
-    
-    col1, col2 = st.columns(2)
-    with col1:
-        medumba_input = st.text_input("Medumba", placeholder="Enter medumba word/expression", key="med_input")
-    with col2:
-        french_input = st.text_input("French", placeholder="Enter French translation", key="fr_input")
-    
-    if st.button("➕ Add Translation"):
-        success, message = add_translation(medumba_input, french_input, dict_type_add)
-        if success:
-            st.success(message)
-            st.balloons()
-            # Reload dataframes
-            st.session_state.words_df = pd.read_csv(words_csv, encoding='utf-8')
-            st.session_state.expressions_df = pd.read_csv(expressions_csv, encoding='utf-8')
-        else:
-            st.error(message)
-
-# TAB 3: View Full Database
+# TAB 2: View Full Database
 with tab3:
     st.subheader("Database Overview")
     
@@ -267,15 +244,15 @@ with tab3:
         st.write("### Words Dictionary")
         st.write(f"Total entries: **{len(st.session_state.words_df)}**")
         with st.expander("View all words"):
-            st.dataframe(st.session_state.words_df, width='stretch', hide_index=True)
+            st.dataframe(st.session_state.words_df, use_container_width=True, hide_index=True)
     
     with col2:
         st.write("### Expressions Dictionary")
         st.write(f"Total entries: **{len(st.session_state.expressions_df)}**")
         with st.expander("View all expressions"):
-            st.dataframe(st.session_state.expressions_df, width='stretch', hide_index=True)
+            st.dataframe(st.session_state.expressions_df, use_container_width=True, hide_index=True)
 
-# TAB 4: Translation Model
+# TAB 3: Translation Model
 with tab4:
     st.subheader("Try the Translation Model")
 
@@ -301,7 +278,7 @@ with tab4:
             if details:
                 st.write("Token details (input → output, similarity score):")
                 detail_df = pd.DataFrame(details, columns=["Input token", "Output", "Score"])
-                st.dataframe(detail_df, hide_index=True)
+                st.dataframe(detail_df, use_container_width=True, hide_index=True)
 
 st.markdown("---")
 st.markdown("Made with ❤️ for Medumba-French translations")
