@@ -1,0 +1,555 @@
+# Translations - Expressions
+# Format: Regional | French
+# Sorted by regional alphabet: ά a b c d f g í j k l m n ŋ o p s t ú v w y ɲ z
+============================================================
+A bag | C'est mauvais, c'est laid
+A bâg tā' | C'est très laid
+A bwɔ̌ | C'est bon
+A bwɔ̌ | C'est bon
+A côb mbə̀ kə? | Qu'a-t-il dit ?
+A cwɛ̌d ngônə | Il est malade, elle est malade
+A cwɛ̌d nja | Ça fait mal
+A cwɛ̌d nkʉ | C'est brûlant
+A cwɛ̌d ntônə | Ça chauffe
+A dîn | Voilà ça loin de toi
+A dîn | Le voilà (loin de toi, et loin de moi)
+A dʉ̀mtə̌ | C'est sucré
+A fi tsə | Ça va bien
+A ghʉ̌ jûsa | Il/elle a des jouets
+A kag | C'est petit
+A kag | C'est insuffisant
+A kàm tā' | Il est très court
+A kù' ndʉlα̂ | Ça suffit comme ça
+A kù'u | Ça suffit
+A kù'u | Ça suffit
+A kə nə̂nʉ̄nə̄ | Ce n'est pas vrai
+A kə yi | Ce n'est pas lui
+A lî | Voici ça
+A lî | Le voici
+A lα | Voilà ça, près de toi
+A lα | Le voilà (près de toi)
+A lα nsi | Il est là
+A mǐ | C'est fini
+A sàgə | C'est long
+A vog | C'est court
+A vôg tā' | Il est très court
+A yαm | C'est beaucoup
+A yαm | C'est beaucoup
+A zwə̌ | C'est amer
+À bə nsi lα | Il est là
+À bə zə̀ Nsi bâm nα | S'il plaît à Dieu
+À bə α̂ kə? | C'est quoi ?
+À bə α̂ kə? | C'est quoi ?
+À bə α̂ mə̀ | C'est moi
+À bə α̂ ndʉlαlα | C'est comme ça
+À bə α̂ ndʉ lα̂ | C'est comme ça
+À bə α̂ ndʉα̂ | C'est comme ça
+À bə α̂ nə̂nʉ̄nə̄ | C'est vrai
+À bə α̂ tadtə̀ | C'est faux, c'est un mensonge
+À bə α̂ wə? | C'est qui ?
+À bə α̂ wə? | C'est qui ?
+À bə α̂ yi | C'est ça
+À bə α̂ yi | C'est lui
+À bə α̂ yu | C'est pour toi
+À bə α̂ yub | C'est pour eux
+À bə α̂ yαg | C'est pour nous
+À bə α̂ yαm | C'est pour moi
+À bə α̂ zin | C'est pour vous
+À bə α̂ zə | C'est pour lui
+À bə α̂ zə̂ wə? | C'est pour qui ?
+À kə̂' bwɔ̀ | Ce n'est pas bon
+À kə̂' bwɔ̀ | Ce n'est pas bon
+À kə̂' bə nsi | Elle n'est pas là
+À kə̂' bə α̂ ndʉ lα̂ | Ce n'est pas comme ça
+À kə̂' bə α̂ nə̂nʉ̄nə̄ | Ce n'est pas vrai
+À kə̂' bə α̂ yi | Ce n'est pas lui
+À kə̂' cob sα̌mju | Elle n'a rien dit
+À, a | Il, elle
+Â kuà' yi (lα) | C'est exact
+Â kə? | C'est quoi ?
+Â kə? | C'est quoi ?
+Â mə̀ | C'est moi
+Â ndʉ̂ kə? | Comment ça va ?
+Â ndʉα̂ | C'est comme ça
+Â nə̂nʉ̄nə̄ | C'est vrai
+Â wə li | Qui est celui-ci ?
+Â wə? | C'est qui ?
+Â wə? | C'est qui ?
+Â yi | C'est ça
+Â yi | C'est lui
+Â yu | C'est pour toi
+Â yub | C'est pour eux
+Â yαg | C'est pour nous
+Â yαm | C'est pour moi
+Â zin | C'est pour vous
+Â zə | C'est pour lui
+Â zə̂ wə? | C'est pour qui ?
+Bàm | Le ventre
+Bàm sαm cwɛ̌d nja | Mon ventre fait mal
+Bàm i | Réveille-le
+Bàmə | Réveille-toi
+Bo | À eux
+Bò kə ncob α̂ bô kə? | Avec quoi parle-t-on ?
+Bò kə nzwiα̂g α̂ bô kə? | Avec quoi respire-t-on ?
+Bò kə nzîn α̂ bô nkù | On marche avec les pieds
+Bò, bo | Ils, elles
+Bô | Avec
+Bô kə? | Avec quoi ?
+Bô ncù | Avec la bouche
+Bô wə? | Avec qui ?
+Bwogtə, nəcô'ò | Répète, redis s'il te plaît
+Bwə̀'ə | Neuf
+Beb αm | Attends-moi
+Bebə | Attends
+Biag mbwog | Éteins la lumière
+Bin | À vous
+Bīn, bǐn | Vous
+Bu | La main
+Bu'kì | Le cahier
+Bu'ŋwà'nì | Le livre
+Bu' mbu | Applaudis
+Bùsi | Le chat
+Bə̀ nɛ̂n nzi | Allons dormir
+Bə̀ nɛ̂nə | Allons
+Bə̀ nɛ̂nə | Allons, partons
+Bɛ̀n ngʉ̂ | Fais encore
+Bɛ̀n ngʉ̂ | Répète, refais
+Bɛ̀nə | Rentre
+Bɛ̌n njàm | Rentre
+Bʉn | Le sein
+Bαg | À nous
+Bαhα | Deux
+Bαhα | Deux
+Bᾱg, bα̌g | Nous
+Bα̌nbαn | Zéro
+Cà'tə̀ αm | Salue-moi
+Cà'tə̀ αm | Salue-moi
+Cǎŋ mǐ | La nourriture est finie
+Co | Entre
+Cobə | Parle
+Co'o | Ouvre
+Co' nzə̀ndα | Ouvre la porte
+Côb mə̀ | Dis-moi
+Côb yi | Dis-lui
+Cûsog | Les condiments
+Cə̀' | Le chapeau
+Cə̌dkù | La souris
+Diàgə | Cherche
+Diǎg nkətô' mu | Cherche tes chaussures
+Du' | La cuillère
+Dʉ | Dis
+Dʉ̀mtə̀ | Sucré
+Dʉ̄' | Un endroit, une place
+Dʉ̌' cwɛ̌d ndûmə | Il fait chaud
+Faŋ i | Laisse-la
+Faŋə | Laisse
+Fomə | Huit
+Fitə | Repose-toi
+Fitə̀ | La paix
+Fə̌'mbwogə | La cuisine
+Fɛd mbαb | Mange la viande
+Fʉ̀nə | Ferme
+Fʉ̌n nzə̀ndα | Ferme la porte
+Fα lî | Donne
+Fα yαm | Donne ma part
+Fα̂ mfɛ̂l ò | Donne à ton frère
+Fα̂ mə̀ | Donne-moi
+Fα̂ yi | Donne-lui
+Gham | Dix
+Ghʉ̀ ndʉlα̂ | Fais comme ça
+Ghʉ̀ ndʉ̂ | Fais comme ceci
+Ghʉ̌ | Faire
+Jun | Achète
+Ju' αm | Écoute-moi
+Ju'u | Écoute
+Jûsa | Le jouet
+Jʉ | Mange
+Jʉju | Mange
+Jʉαg yilα | Ramasse ça
+Jʉαgə | Ramasse
+Ka | L'assiette
+Kǎŋ wûl ù | Tourne-toi
+Ko'o | Monte
+Ko'o | Monte
+Kò | Tiens
+Kǐ | Écris
+Kuà'a | Pleure
+Kuà' ndɔ̌nnî | Tout de suite
+Kuà' yi (lα) | Exactement
+Kù | Le pied
+Kuὰ | Quatre
+Kuὰ | Quatre
+Kə di? | Que quoi ?
+Kə? | Quoi ?
+Kə? | Quoi ?
+Kə̀bwɔ̀ | Mal, mauvais
+Kə̀lɔ̀ | Le plantain
+Kʉd | Le stylo, le Bic
+kʉ̌ndə | Cours
+Kα̂ bàm i | Ne la réveille pas
+Kα̂ bɛ̀n ngʉ̂ | Ne fais plus
+Kα̂ cob | Ne dis pas
+Kα̂ côb yi | Ne lui dis pas
+Kα̂ côb yi | Ne lui dis pas
+Kα̂ dʉ | Ne dis pas
+Kα̂ ghʉ̀ ndʉlα̂ | Ne fais pas comme ça
+Kα̂ jun | N'achète pas
+Kα̂ ju' | N'entends pas, n'écoute pas
+Kα̂ kuag | Ne touche pas
+Kα̂ kuag | Ne touche pas
+Kα̂ lǒ nsi | Ne te lève pas
+Kα̂ lὰb i | Ne la tape pas
+Kα̂ lὰgtə̀ | N'oublie pas
+Kα̂ miὰgtə̀ | Ne finis pas
+Kα̂ miὰgtə̌ caŋ | Ne finis pas la nourriture
+Kα̂ miὰgtə̌ caŋ su | Ne finis pas ta nourriture
+Kα̂ miὰgtə̌ nkα̂b ù | Ne finis pas ton argent
+Kα̂ nyàŋ | Ne piétine pas
+Kα̂ nə ghʉ̌ | Ne fais plus
+Kα̂ soŋ i | Ne lui dis pas
+Kα̂ swɛ̀n | Ne vends pas
+Kα̂ sə̀' | Ne viens pas
+Kα̂ tswə nsi | Ne t'assois pas
+Kα̂ zìn | Ne marche pas
+Kα̌nncobə | Grammaire
+Là'tə̌ bu u | Montre ta main
+Lǒ nsi | Lève-toi
+Lǒ nzα̂ | Quitte de là
+Lǒ nzα̂ | Quitte de là
+Lǒ zənnα | Quitte de là
+Lǒ zənnα | Quitte de là
+Lem | La langue
+Le' | Le jour
+Lě' bu u | Enlève ta main
+Lɔtə | Regarde
+Lɔtə | Regarde
+Ləd | Le verre, le gobelet
+Ləm | Le sang
+Lə̀'tə̂nsi | La prière
+Lɛn | Le nom
+Lɛn | Le nom
+Lɛ̂n sαm | Mon nom
+Lɛ̂n sαm bə α̂ ... | Je m'appelle, mon nom est...
+Lα̂g su | Ton œil
+Mà'a | Lance
+Mǎ' nzwə | Porte l'habit
+Mǎ' nzwə̂ ù | Porte ton habit
+Mbaŋ | À côté
+Mbàŋ | La pluie
+Mbàŋ lo, mbα̂ mə̀ à'... | S'il pleut, je...
+Mbǎŋ cwɛ̌d ndo | Il pleut
+Mbwog | Le feu
+Mbwə̀ | Devant
+Mbʉ | Le chien
+Mbʉn | Les seins
+Mbʉn | Le lait
+Mbʉ à' fɛd mbαb | Le chien mangera la viande
+Mbʉ à' zi fɛd mbαb tà' le' | Le chien mangera la viande un jour, dans un futur très lointain
+Mbʉ cwɛ̌d mfɛd mbαb | Le chien mange la viande
+Mbʉ fə̀ mfɛd mbὰb nkòg | Le chien a mangé la viande hier
+Mbʉ fɛd mbαb | Le chien a mangé la viande
+Mbʉ lô fɛd mbαb | Le chien avait mangé la viande, il y a de cela très longtemps, dans un passé lointain
+Mbʉ nâ' fɛd mbαb le'mo'o | Le chien avait mangé la viande l'autre jour
+Mbʉ nâ' kə mfɛd mbαb njǒŋ le' fa | Le chien mangeait la viande chaque jour
+Mbαb | La viande
+Mbαm mbα | Patience, mot de consolation
+Mbαm mbα, kα̂ nə kuà'a | Patience, ne pleure plus
+Mbὰ wəlô | Chacun
+Mfətʉ | En haut
+Mfə̌dnjʉ | Le soir
+Mfə̌dnjʉ | Le soir
+Mfɛ̂l ὰm | Mon frère
+Mfɛ̂l ὰm | Ma sœur
+Mfɛ̂l α̌m zə̀ mɛnnzwi | Ma sœur
+Mfɛ̂l α̌m zə̀ mαndum | Mon frère
+Mfʉαg cwɛ̌d nko | Il fait froid
+Mô'ndʉ̀ | Peut-être
+Miαg | Les yeux
+Miα̂g mu | Tes yeux
+Məjuī | Un peu
+Mətsìli | Petit
+Mə bam | Merci
+Mə bod | Je suis fatigué
+Mə cà'tə̌ | Salut !
+Mə cwɛ̌d ngônə | Je suis malade
+Mə gha | J'ai refusé
+Mə ghʉ̌ | J'ai
+Mə ghʉ̌ jûsa | J'ai un jouet
+Mə ju' | J'ai compris
+Mə kɔ̀ ô tā' | Je t'aime tellement
+Mə làgtə̌ | J'ai oublié
+Mə lî | Me voici
+Mə lɛ̀nə | Je sais
+Mə lὰbtə̌ | Merci
+Mə lὰbtə̌ | Merci
+Mə tsiàŋtə̌ | Je suis content
+Mə yàtə̌ | Je suis guéri
+Mə ywi' | J'ai vomi
+Mə yən | J'ai vu
+Mə̀ | À moi
+Mə̀ à' jʉ ju | Je vais manger
+Mə̀ à' lὰb o | Je vais te taper
+Mə̀ à' nu ntsə | Je vais boire de l'eau
+Mə̀ à' nu ntsə | Je vais boire de l'eau
+Mə̀ bə nsi lα | Je suis là
+Mə̀ bə α̂ fə̌'mbwogə | Je suis à la cuisine
+Mə̀ bə α̂ mbwoŋ | Je suis pauvre
+Mə̀ bə α̂ ngàfū' | Je suis riche
+Mə̀ bə α̂ ngànkαb | Je suis riche d'argent
+Mə̀ bə α̂ tô'ndα | Je suis dans la chambre
+Mə̀ dʉ̂ mbὰ | Je dis hein
+Mə̀ jʉ α̂ ju | Je mange
+Mə̀ kɔ̀ o | Je t'aime
+Mə̀ kə̂' ghʉ̀ | Je n'ai pas
+Mə̀ kə̂' ghʉ̌ nkαb | Je n'ai pas d'argent
+Mə̀ kə̂' ju' mə̀bwɔ | Je n'ai pas bien entendu
+Mə̀ kə̂' lɛ̀n | Je ne sais pas
+Mə̀ kə̂' lɛ̀n | Je ne sais pas
+Mə̀ kə̂' yən | Je n'ai pas vu
+Mə̀ mbə̀ mbὰ | Je dis hein
+Mə̀ nə nyǐ | Je fais les selles
+Mə̀ nə tsìntə̌ | J'urine
+Mə̀ yòb α̂ kwì | Je chante
+Mə̀, mə | Je
+Mə̂ mfēnī | Un tout petit peu
+Mɛn | L'enfant
+Mɛn cwɛ̌d ngônə | L'enfant est malade
+Mɛn mɛ̀nnzwi | Une fille
+Mɛn mαndùm | Un garçon
+Mɛn ywi' | L'enfant a vomi
+Mɛ̀nntʉ̀n | Un être humain
+Mɛ̀nnzwi | Une femme
+Mʉm miα̂g mu | Ferme tes yeux
+Mʉm ncù u | Tais-toi
+Mʉm ncù u | Tais-toi
+Mʉm ncù u | Ferme ta bouche
+Mα | Maman
+Mα | La mère
+Mαndùm | Un homme
+Mαnta cwɛ̌d nkuâtə αm | Hɑ̄wɑ̄ me taquine (Changer le nom en un nom typique)
+Mαtùn | En bas
+Mα̂ngʉ̂dnzə' | Les ancêtres
+Mα̂yαm | Beaucoup
+Mα̂α | Ma mère
+Mα̂α | Ma mère
+Ncù | La bouche
+Ncʉ' | Un
+Ncʉ̄' | Un
+Ndǎmnjʉ | Demain
+Ndɔ̌nnî | Maintenant
+Ndʉm | Un monstre, un diable
+Ndα̂nsi | L'église
+Ndα̂ntʉ | La poitrine
+Nga | Non
+Nga | Non
+Njàm | Derrière
+Njǎgnyàm | Midi
+Njǒŋ bə̀n fa | Tout le monde
+Njǒŋ dʉ̄' fa | Partout
+Njʉ lαn | Il fait jour
+Njʉ yα̌ lαnə | Il fait déjà jour
+Nkòg | Hier
+Nkun | Le riz
+Nkûn mə̀kalə | Le riz
+Nkɔ̀nì | Amour
+Nkəto'o | Les chaussures
+Nkəto'o | Les chaussures
+Nkətô' mαm | Mes chaussures
+Nkə̂bnjʉ | Le matin
+Nkαb | L'argent
+Nsi | Dieu
+Nsɔ̄ | Les dents
+Ntogə | Six
+Ntōŋ | Les oreilles
+Ntōŋ | Les oreilles
+Ntsə | L'eau
+Ntsə̌ mǐ | L'eau est finie
+Ntu' | Le verre, le gobelet
+Nya'a | La sauce
+Nyàm | Le soleil
+Nyàm tα, mbα̂ mə̀ à' nɛ̌n ntαnə | S'il fait soleil, j'irai au marché
+Nyǎm cwɛ̌d ntα | Il fait soleil
+Nyǎŋsa | Danse
+Nyǎŋsa | Danse
+Nywǐnmbàŋ | La neige
+Nywǐnmbǎŋ cw | Il neige
+Nyǐd bu u | Tends ta main
+Nyu | Le serpent
+Nyαkə̀lα | Sinon
+Nyαkə̀lα, mbα̂ mə̀ à' ghɔ ndα | Sinon, je resterai à la maison
+Nzwə | L'habit
+Nzìkû' cwɛ̌d nja αm | J'ai faim
+Nzìkû' ya o ke? | As-tu faim ?
+Nzìkû'u | La famine
+Nzî | Ici
+Nzə̀ndα | La porte
+Nzα̂ | Là-bas, près de toi
+Nu | Bois
+Nu ntsə | Boire de l'eau
+Nǔmkə | Pourquoi
+Nǔmkə | Pourquoi?
+Nǔmkə̂? | Pourquoi ?
+Nǔmmbə | Parce que
+Nǔmmbə nǔ bwɔ̀ αm | Parce que je suis content
+Nǔm lɛ̂n tα | Au nom du père
+Nǔ bwɔ̀ αm | Je suis content
+Nɔ̌ nsi | Couche-toi
+Nəco'o | S'il te plaît
+Nəcô'o fα yαm | Stp, donne ma part
+Nəcô' mfɛ̂l ὰm | S'il te plaît mon frère, s'il te plaît ma sœur
+Nəcô' mα̂ | S'il te plaît maman
+Nə̀ cǔ' ncù | Se brosser les dents
+Nə̀ diàgə | Chercher
+Nə̀ fɛd mbαb | Manger la viande
+Nə̀ gha | Refuser
+Nə̀ ghònə | Être malade
+Nə̀ junə | Acheter
+Nə̀ jʉ | Manger
+Nə̀ kàmə, nə̀ kǎm ncà, nə̀ kuàtə̌ | Attaquer, taquiner
+Nə̀ kǐ | Écrire
+Nə̀ kɔ̌ | Aimer
+Nə̀ làmə | Sentir
+Nə̀ lὰbə | Taper
+Nə̀ mǎ' nzwə | Porter un vêtement
+Nə̀ nyàŋə | Piétiner
+Nə̀ nyǐ | Faire les selles
+Nə̀ sǒg wud | Se laver
+Nə̀ swɛ̀nə | Vendre
+Nə̀ tàŋə | Attacher
+Nə̀ tsìntə̌ | Uriner
+Nə̀ ya | Faire mal
+Nə̀ yǒb kwì | Chanter
+Nə̀ ywi'i | Vomir
+Nə̀ zwiὰgə | Respirer
+Nə̀ zwiάgə | Respirer
+Nə̀ zi'ju | Apprendre
+Nɛ̀n bǎm Nùmi | Va réveiller Shwīnāò (Change le nom en un nom typique)
+Nɛ̀n ncû' ncù u | Va te brosser les dents
+Nɛ̀n nsôg wûl u | Va te laver
+Nɛ̀n nzi | Va dormir
+Nɛ̀n yi mbwə̀ | Continue
+Nɛ̀nə, shʉα̌ | Part, va-t’en
+Nɛ̂n yi | Emmène, va avec
+Nɛ̌n mbwə̀ | Avance
+Nɛ̌n mαdin | Va là-bas
+ŋ̂ | Oui
+ŋ̂ | Oui
+O bûm tā' | Tu es très turbulent
+O cwɛ̌d nkuâ'a | Tu pleures
+O cwɛ̌d nzwî | Tu ris
+O ju' ὰ? | Tu entends ?
+O kɔ̌ nə̀ nu ntsə ke? | Veux-tu boire de l’eau ?
+O nyì ke? | As-tu fait des selles ?
+O sǒg wûl u | Tu t'es lavé
+O tsìntə̀ ke? | As-tu uriné ?
+O yantʉ ke? | Es-tu fâché ?
+O ywɛd ke? | Es-tu rassasié ?
+O zi ὰ | Bonjour (le matin seulement)
+Ò bə α̂ yα? | Où es-tu ?
+Ò ghʉ̀ α̂ kə? | Que fais-tu ?
+Ò kə̂' bə nsi | Tu n'es pas là
+Ò mbə̀ kə di? | Tu dis quoi ? Qu'est-ce que tu dis ?
+Ò zwì α̂ nǔmkə? | Pourquoi ris-tu ?
+Ò, o | Tu
+Sàtɔ | Le piment
+Sogə | La sauce
+Soŋ i | Dis-lui
+Soŋ αm | Dis-moi
+Sòŋə | Tire, ramène vers toi
+Sôg nətα | Le piment
+Sǒg bu u | Lave ta main
+Sǒg mbu mu | Lave tes mains
+Sǒ nkəto'o | Porte les chaussures
+Sǒ nkətô' mu | Porte tes chaussures
+Swə'ə | Descends
+Swə'ə | Descends
+Swɛ̀nə | Vends
+Siaŋə | Lis
+Sə? | Quand ?
+Sə̀' ncâ'tə αm | Viens me saluer
+Sə̀' ntswə nsi | Viens t'asseoir
+Sə̀' ntsiag αm | Viens m'embrasser
+Sə̀' ntsiag αm | Viens m'embrasser
+Sə̀' nzi | Viens dormir
+Sə̀'ə | Viens
+Sə̀'ə | Viens
+Sə̂' yi | Apporte, amène
+Sə̌ zənni | Viens ici
+Sə̌' kò | Viens prendre
+Sə̌' kò | Viens prendre
+Sə̌' mə̀bwɔ | Bienvenue
+Sə̌' nzî | Viens ici
+Sɛnni | Aujourd'hui
+Sαmmbαhα | Sept
+Sα̌mdʉ' | Aucune place, aucun endroit, nulle part
+Sα̌mju | Rien
+Sα̌mju | Rien, aucune chose
+Sα̌mle' | Jamais, aucun jour
+Sα̌mmɛ̀n | Personne, aucune personne
+Tad | Trois
+Tad | Trois
+Tàŋə | Attache
+Tà' | Un, article indéfini
+Tà' ju | Quelque chose
+Tà' le' | Un jour
+Tà' mɛ̀n | Quelqu'un
+Tā' | Trop, tellement
+Tǎŋ yilα | Attache ça
+Tô'mò | Le salon
+Tswə nsi | Assois-toi
+Tswə nsi | Assois-toi
+Tsiag αm | Embrasse-moi
+Tsiàŋtə̀ | La joie
+Tsiàŋtə̌ | Être content
+Tsin tʉ | Mets-toi debout
+Tsinə | Arrête-toi
+Tu | La tête
+Tumə | Sors
+Tumə | Sors
+Tɔ | Le cou
+Tɔ | Crie
+Tɔ | Le trou
+Tə mbwog | Allume la lumière
+Tɛnə | Pousse
+Tɛ̀dtswə' | La nuit
+Tʉ̌nmbu | Persévère
+Tʉ̌nmbu | Persévère
+Tα | Papa
+Tὰ mǒ' le' | À la prochaine
+Tὰ ndǎmnjʉ | À demain
+Tα̂n | Cinq
+Tα̂n | Cinq
+Tα̂α | Mon père
+Tα̂αn bə α̂ yα? | Où est ton père ?
+Tα̂αn yὰ? | Où est ton père ?
+Wua'a | Jette
+Wə? | Qui ?
+Wə? | Qui ?
+Wʉ̀ | À toi
+Yantʉ | Être fâché, se fâcher
+Yahà | Bravo
+Yàyàtɔ̂! | Cri de joie pour accueillir et dire bienvenue à quelqu'un qui vient de rentrer à la maison
+Ywìmtə̀ αm, nəcô'o | Aide-moi, stp
+Ywɛlə | Saute
+Yi | À lui
+Yîsh, a cwɛ̌d ndâmə | Yich! Ça sent, ça pue
+Yən | Voir
+Yənə | Regarde
+Yαb bu u zənni | Mets ta main ici
+Yὰm wə! | Allô ! Lorsqu'on ne sait pas qui est au bout du fil
+Yᾱ? | Où ?
+Zwǐ | Ris
+Zwǐ | Ris
+Zwə̀ | Amer
+Zi | Dors
+Zi mə̀bwɔ | Bonne nuit, dors bien
+Zìnə | Marche
+Zîlə? | Lequel ?
+Zəndin | Là-bas, loin de toi et loin de moi
+Zənni | Ici
+Zənnα̂ | Là-bas, près de toi
+Zə̂ wə? | Pour qui ?
+Hàndα | Oh là là, zut, merde, putain
+Ɔ̂hɔ | Au revoir
+Ɔ̂hɔ | Au revoir
+Ɔ̂hɔ mbὰ | Au revoir hein
