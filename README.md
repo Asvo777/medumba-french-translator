@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run dictionary_manager.py
 ```
-Then open the printed local URL (default http://localhost:8501).
+Then open the printed local URL (default http://localhost).
 
 ## Data files
 The app expects the CSVs in `output/`. Edits in the UI overwrite these files. If you deploy to Streamlit Cloud, commit the `output/` CSVs so they are available at startup.
